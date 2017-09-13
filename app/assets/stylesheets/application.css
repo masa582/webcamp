@@ -164,7 +164,7 @@ nav ul li {
 .blog_item:nth-child(4) .blog_image {
     background-image: url(https://wals.s3.amazonaws.com/uploads/wals2_content_img/CaravanImg/img/italy.jpg);
 }
-.blog_item:nth-child(5) .blog_image {
+.blog_item:nth-child() .blog_image {
     background-image: url(https://wals.s3.amazonaws.com/uploads/wals2_content_img/CaravanImg/img/asia.jpg);
 }
 .blog_text {
