@@ -152,19 +152,19 @@ nav ul li {
     background-position: center;
     background-size: cover;
 }
-.blog_item:nth-child(1) .blog_image {
+.blog_item:nth-child(2) .blog_image {
     background-image: url(https://wals.s3.amazonaws.com/uploads/wals2_content_img/CaravanImg/img/forest.jpg);
 }
-.blog_item:nth-child(2) .blog_image {
+.blog_item:nth-child(3) .blog_image {
     background-image: url(https://wals.s3.amazonaws.com/uploads/wals2_content_img/CaravanImg/img/desert.jpg);
 }
-.blog_item:nth-child(3) .blog_image {
+.blog_item:nth-child(4) .blog_image {
     background-image: url(https://wals.s3.amazonaws.com/uploads/wals2_content_img/CaravanImg/img/sunset.jpg);
 }
-.blog_item:nth-child(4) .blog_image {
+.blog_item:nth-child(5) .blog_image {
     background-image: url(https://wals.s3.amazonaws.com/uploads/wals2_content_img/CaravanImg/img/italy.jpg);
 }
-.blog_item:nth-child() .blog_image {
+.blog_item:nth-child(6) .blog_image {
     background-image: url(https://wals.s3.amazonaws.com/uploads/wals2_content_img/CaravanImg/img/asia.jpg);
 }
 .blog_text {
